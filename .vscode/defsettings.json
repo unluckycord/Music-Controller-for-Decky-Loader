@@ -8,6 +8,6 @@
     "pluginname": "Example Plugin",
     "python.analysis.extraPaths": [
         "./py_modules",
-        "decky-loader/plugin/imports"
+        "backend/decky-loader/plugin/imports"
     ]
 }
